@@ -11,11 +11,11 @@
 
 <br />
 
-## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/info.svg" width="24" height="24" align="top" /> Overview
+## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/info.svg" width="24" height="24" align="top" style="filter: invert(1);" /> Overview
 
 The **Cylinder Element** is a premium 3D component designed for modern web applications. It leverages the power of Three.js and React Three Fiber to deliver a mesmerizing, continuously rotating cylinder, complete with custom textures and sophisticated post-processing effects like bloom and dynamic tone mapping.
 
-## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/sparkles.svg" width="24" height="24" align="top" /> Features
+## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/sparkles.svg" width="24" height="24" align="top" style="filter: invert(1);" /> Features
 
 - **Seamless 3D Rendering**: High-fidelity graphics powered by `three.js`.
 - **Dynamic Materials**: Custom image mapping with double-sided transparency.
@@ -25,7 +25,7 @@ The **Cylinder Element** is a premium 3D component designed for modern web appli
 
 <br />
 
-## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/layers.svg" width="24" height="24" align="top" /> Technology Stack
+## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/layers.svg" width="24" height="24" align="top" style="filter: invert(1);" /> Technology Stack
 
 | Technology            | Description                  |
 | :-------------------- | :--------------------------- |
@@ -36,7 +36,7 @@ The **Cylinder Element** is a premium 3D component designed for modern web appli
 
 <br />
 
-## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/rocket.svg" width="24" height="24" align="top" /> Getting Started
+## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/rocket.svg" width="24" height="24" align="top" style="filter: invert(1);" /> Getting Started
 
 ### Prerequisites
 
@@ -64,7 +64,7 @@ Ensure you have Node.js installed on your system.
 
 <br />
 
-## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/folder.svg" width="24" height="24" align="top" /> Architecture
+## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/folder.svg" width="24" height="24" align="top" style="filter: invert(1);" /> Architecture
 
 - `src/App.jsx`: Orchestrates the 3D scene, lighting, camera controls, and render pipeline.
 - `src/Cylinder.jsx`: The core interactive element, handling geometry, material mapping, and animation loops.
